@@ -1,15 +1,1 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I am an IT Support Specialist with a Master’s in IT (Ongoing) and a Bachelor’s in Networking and Cybersecurity. I have experience supporting 300+ global users and am focused on Modern Management (Intune) and Security.
